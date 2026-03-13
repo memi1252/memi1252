@@ -48,10 +48,6 @@ OpenAI **Whisper AI** 음성인식을 핵심 조작 방식으로 사용하는 �
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-**Shader / Graphics**
-
-![ShaderLab](https://img.shields.io/badge/ShaderLab-000000?style=for-the-badge&logo=unity&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
 
 **AI**
 
