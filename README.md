@@ -49,10 +49,6 @@ OpenAI **Whisper AI** 음성인식을 핵심 조작 방식으로 사용하는 �
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 
-**AI**
-
-![OpenAI](https://img.shields.io/badge/Whisper_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
