@@ -22,7 +22,7 @@
 OpenAI **Whisper AI** 음성인식을 핵심 조작 방식으로 사용하는 갱스터 액션 게임.  
 마이크에 명령어를 말하면 캐릭터가 즉시 반응합니다. 한/영/중/일 4개 언어 지원.
 
-`Unity` `C#` `Whisper AI` `ShaderLab` `HLSL`
+`Unity` `C#` `Whisper AI`
 
 ---
 
