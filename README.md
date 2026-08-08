@@ -8,8 +8,7 @@
 ## 🕹️ About Me
 
 - 🎮 **Unity 게임 개발**을 메인으로 하는 개발자입니다
-- 🤖 **AI 기술(Whisper AI)**을 게임에 접목하는 것에 관심이 많습니다
-- 🚀 현재 **캡스톤 프로젝트** 2개를 진행 중입니다
+- 🤖 **AI 기술**을 게임에 접목하는 것에 관심이 많습니다
 - 🌱 더 몰입감 있는 게임 경험을 만들기 위해 매일 성장 중입니다
 
 <br>
@@ -34,37 +33,3 @@ OpenAI **Whisper AI** 음성인식을 핵심 조작 방식으로 사용하는 �
 
 `Unity` `C#`
 
-
-
-<br>
-
-## 🛠️ Tech Stack
-
-**Game Engine**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
-**Language**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![memi1252's GitHub stats](https://github-readme-stats.vercel.app/api?username=memi1252&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=memi1252&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
-<br>
